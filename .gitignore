@@ -1,0 +1,7 @@
+# VIM
+*~
+# MAC
+.DS_Store
+# Compiled files
+*.a.out
+*.exe
